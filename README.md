@@ -15,7 +15,7 @@ A lightweight RESTful API built with Python, Flask, and SQLite for managing stud
 ---
 
 ## 📁 Project Architecture
-lask-student-api/
+flask-student-api/
 ├── app/
 │   ├── init.py      # App factory & DB initialization
 │   ├── models.py        # Database models
